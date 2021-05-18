@@ -1,3 +1,4 @@
+![Untitled 2](https://user-images.githubusercontent.com/68576069/118727979-0cde2180-b80a-11eb-90ae-4bd4a694739e.jpg)
 # animatedTemplate
 Animated template using AOS and TAILWIND CSS
 
